@@ -11,11 +11,15 @@
 ***This is Naveen Kurra.Energetic and passionate college student working towards Bachelors in Vellore Institute of Technology, AP in Computer Science Department with good academic    record and keen interest and practical exposure in the field of building Artificial intelligence and data based projects.Can endure rigorous and long work hours.Gained   knowledge in Artificial intelligence,Data Science,Web development,machine learning,Deep Learning, Open Cv,Cloud Computing and database management system.***
   
   ***AI EXPLORATION AND AI FOR LIFE***
+ ### 💼 Where i am currently/done Studying at/as
+- [*Under Graduation at Veloore institute of technology*](https://vitap.ac.in) 💼 
+- [*intermediate education at Narayana junior college*](https://narayanagroup.com/) ✒
+- *Secondary Education at Milennium Talent School*
     
    
    * 😅*My vision is to make AI a power tool in the field of medicine,health And in exploration of Space*
    * ⚡*Completed my deep learning Specialization from Coursera<ul><li>*Deep learning and neural networks*</li><li>Hyperparameter tuning</li><li>Structuring machine learning projects</li><li>Convolutional neural networks</li><li>Sequence models</li></ul>*
-   * ⚕️ *Currently working on AI In Medicine Specialization*<ul><li>AI for medical Diagnosis</li><li>AI for mediacl Prognosis</li><li>AI for medical treatment</li></ul>
+   * ⚕️ *Currently working on AI In Medicine Specialization*<ul><li>*AI for medical Diagnosis*</li><li>*AI for mediacl Prognosis*</li><li>*AI for medical treatment*</li></ul>
    * 😎 *Very Intersted About Space Exploration*
    * 🔗 *Connect me through*<ul><li>😏 [Facebook](https://www.facebook.com/people/Naveen-Chowdary/100008693080523)</li><li>👨💼[Linkedin](www.linkedin.com/in/naveen-kurra)</li><li>🐤[twitter](https://twitter.com/Naveen_kurra7)</li></ul>
 
