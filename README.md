@@ -1,4 +1,4 @@
-## [![Naveen Kurra header](https://github.com/naveen-kurra/naveen-kurra/blob/main/Screenshot%20(29).png)](https://github.com/naveen-kurra)
+## [![Naveen Kurra's header](https://github.com/naveen-kurra/naveen-kurra/blob/main/Screenshot%20(29).png)](https://github.com/naveen-kurra)
 <p align='center'>
 <a href="https://www.instagram.com/naveen._kurra/"><img height="30" src="https://github.com/naveen-kurra/naveen-kurra/blob/main/icons8-instagram-64.png"></a>&nbsp;&nbsp;
 <a href="https://twitter.com/Naveen_kurra7"><img height="30" src="https://github.com/naveen-kurra/naveen-kurra/blob/main/icons8-twitter-64.png"></a>&nbsp;&nbsp;
@@ -8,11 +8,11 @@
 
 <h2 align="center">Hello there! My name is Naveen Kurra. 👋🤓</h2>
 
-***This is Naveen Kurra.Energetic and passionate college student working towards Bachelors in Vellore Institute of Technology, AP in Computer Science Department with good academic    record and keen interest and practical exposure in the field of building Artificial intelligence and data based projects.Can endure rigorous and long work hours.Gained   knowledge in Artificial intelligence,Data Science,Web development,machine learning,Deep Learning, Open Cv,Cloud Computing and database management system.***
+***This is Naveen Kurra.Energetic and passionate college student working towards Bachelors in Vellore Institute of Technology, AP in Computer Science Department with good academic record and keen interest and practical exposure in the field of building Artificial intelligence and data based projects.Can endure rigorous and long work hours.Gained   knowledge in Artificial intelligence,Data Science,Web development,machine learning,Deep Learning, Open Cv,Cloud Computing and database management system.***
   
   ***AI EXPLORATION AND AI FOR LIFE***
  ### 💼 Where i am currently/done Studying at/as
-- [*Under Graduation at Veloore institute of technology*](https://vitap.ac.in) 💼 
+- [*Under Graduation at Vellore institute of technology*](https://vitap.ac.in) 💼 
 - [*intermediate education at Narayana junior college*](https://narayanagroup.com/) ✒
 - *Secondary Education at Milennium Talent School*
     
@@ -24,7 +24,7 @@
 ### 😉 INTERSTS:
    * 😎 *Very Intersted About Space Exploration*
 ### 🔗 WHERE TO FIND ME
-   * Connect me through<ul><li>😏 [Facebook](https://www.facebook.com/people/Naveen-Chowdary/100008693080523)</li><li>👨💼[Linkedin](www.linkedin.com/in/naveen-kurra)</li><li>🐤[twitter](https://twitter.com/Naveen_kurra7)</li></ul>
+   * Connect me through<ul><li>😏 [Facebook](https://www.facebook.com/people/Naveen-Chowdary/100008693080523)</li><li></li><li>👨💼[Linkedin](www.linkedin.com/in/naveen-kurra)</li><li></li><li>🐤[twitter](https://twitter.com/Naveen_kurra7)</li></ul>
 
 
 <!--
