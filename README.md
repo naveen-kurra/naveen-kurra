@@ -24,7 +24,7 @@
 ### 😉 INTERSTS:
    * 😎 *Very Intersted About Space Exploration*
 ### 🔗 WHERE TO FIND ME
-   * Connect me through*<ul><li>😏 [Facebook](https://www.facebook.com/people/Naveen-Chowdary/100008693080523)</li><li>👨💼[Linkedin](www.linkedin.com/in/naveen-kurra)</li><li>🐤[twitter](https://twitter.com/Naveen_kurra7)</li></ul>
+   * Connect me through<ul><li>😏 [Facebook](https://www.facebook.com/people/Naveen-Chowdary/100008693080523)</li><li>👨💼[Linkedin](www.linkedin.com/in/naveen-kurra)</li><li>🐤[twitter](https://twitter.com/Naveen_kurra7)</li></ul>
 
 
 <!--
