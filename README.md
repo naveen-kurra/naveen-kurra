@@ -18,7 +18,8 @@
     
    
    * 😅*My vision is to make AI a power tool in the field of medicine,health And in exploration of Space*
-   * ⚡*Completed my deep learning Specialization from Coursera<ul><li>*Deep learning and neural networks*</li><li>Hyperparameter tuning</li><li>Structuring machine learning projects</li><li>Convolutional neural networks</li><li>Sequence models</li></ul>*
+   ### 💻 What i am currently/done working on
+   * ⚡*[Completed my deep learning Specialization from Coursera[(https://www.coursera.org/account/accomplishments/specialization/certificate/68ANANEBG53G)<ul><li>*[Deep learning and neural networks](https://coursera.org/share/87dd7f68e172a792cf032d2a9199ce51)*</li><li>Hyperparameter tuning</li><li>Structuring machine learning projects</li><li>Convolutional neural networks</li><li>Sequence models</li></ul>*
    * ⚕️ *Currently working on AI In Medicine Specialization*<ul><li>*AI for medical Diagnosis*</li><li>*AI for mediacl Prognosis*</li><li>*AI for medical treatment*</li></ul>
    * 😎 *Very Intersted About Space Exploration*
    * 🔗 *Connect me through*<ul><li>😏 [Facebook](https://www.facebook.com/people/Naveen-Chowdary/100008693080523)</li><li>👨💼[Linkedin](www.linkedin.com/in/naveen-kurra)</li><li>🐤[twitter](https://twitter.com/Naveen_kurra7)</li></ul>
