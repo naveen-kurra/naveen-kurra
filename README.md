@@ -8,7 +8,7 @@
 
 <h2 align="center">Hello there! My name is Naveen Kurra. 👋🤓</h2>
 
-***This is Naveen Kurra.Energetic and passionate college student working towards Bachelors in Vellore Institute of Technology, AP in Computer Science Department with good academic record and keen interest and practical exposure in the field of building Artificial intelligence and data based projects.Can endure rigorous and long work hours.***
+***This is Naveen Kurra.Energetic and passionate college student working towards Bachelors in Vellore Institute of Technology, AP in Computer Science Department with good academic    record and keen interest and practical exposure in the field of building Artificial intelligence and data based projects.Can endure rigorous and long work hours.Gained   knowledge in Artificial intelligence,Data Science,Web development,machine learning,Deep Learning, Open Cv,Cloud Computing and database management system.***
   
   ***AI EXPLORATION AND AI FOR LIFE***
     
