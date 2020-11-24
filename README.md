@@ -3,7 +3,7 @@
 <a href="https://www.instagram.com/naveen._kurra/"><img height="30" src="https://github.com/naveen-kurra/naveen-kurra/blob/main/icons8-instagram-64.png"></a>&nbsp;&nbsp;
 <a href="https://twitter.com/Naveen_kurra7"><img height="30" src="https://github.com/naveen-kurra/naveen-kurra/blob/main/icons8-twitter-64.png"></a>&nbsp;&nbsp;
 <a href="https://www.facebook.com/people/Naveen-Chowdary/100008693080523"><img height="30" src="https://github.com/naveen-kurra/naveen-kurra/blob/main/icons8-facebook-50.png"></a>&nbsp;&nbsp;
-<a href="www.linkedin.com/in/naveen-kurra"><img height="30" src="https://github.com/naveen-kurra/naveen-kurra/blob/main/icons8-linkedin-26.png"></a>
+<a href="https://www.linkedin.com/in/naveen-kurra"><img height="30" src="https://github.com/naveen-kurra/naveen-kurra/blob/main/icons8-linkedin-26.png"></a>
 </p>  
 
 <h2 align="center">Hello there! My name is Naveen Kurra. 👋🤓</h2>
