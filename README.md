@@ -14,8 +14,8 @@
  ### 💼 Where i am currently/done Studying at/as
 - [*Currently Pursuing M.S. in Computer Science (Thesis) at The University of Georgia, Athens*](https://computing.uga.edu/ms-computer-science-thesis-option)
 - [*Bachelors at Vellore institute of technology*](https://vitap.ac.in) 💼 
-- [*Intermediate education at Narayana junior college*](https://narayanagroup.com/) ✒
-- *Secondary Education at Milennium Talent School*
+- [*High School at Narayana junior college*](https://narayanagroup.com/) ✒
+- *Middle School Education at Milennium Talent School*
     
  ### ☁️ MY VISION: 
    * 😅*My vision is to make AI a power tool in the field of medicine,health And in exploration of Space*
