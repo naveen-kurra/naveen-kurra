@@ -13,7 +13,7 @@
   ***AI EXPLORATION AND AI FOR LIFE***
  ### 💼 Where i am currently/done Studying at/as
 - [*Currently Pursuing M.S. in Computer Science (Thesis) at The University of Georgia, Athens*](https://computing.uga.edu/ms-computer-science-thesis-option)
-- [*Under Graduation at Vellore institute of technology*](https://vitap.ac.in) 💼 
+- [*Bachelors at Vellore institute of technology*](https://vitap.ac.in) 💼 
 - [*Intermediate education at Narayana junior college*](https://narayanagroup.com/) ✒
 - *Secondary Education at Milennium Talent School*
     
