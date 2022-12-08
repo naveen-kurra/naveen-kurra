@@ -9,8 +9,7 @@
 <h2 align="center">Hello there! My name is Naveen Kurra. 👋🤓</h2>
 
 ***This is Naveen Kurra.Energetic and passionate college student working towards Masters in Computer Science at The University Of Georgia,Athens with keen interest and practical exposure in the field of building Artificial intelligence and data based projects.Can endure rigorous and long work hours.Gained   knowledge in Artificial intelligence,Data Science,Web development,machine learning,Deep Learning, Open Cv,Cloud Computing and database management system.***
-  
-  ***AI EXPLORATION AND AI FOR LIFE***
+
  ### 💼 Where i am currently/done Studying at/as
 - [*Currently Pursuing M.S. in Computer Science (Thesis) at The University of Georgia, Athens*](https://computing.uga.edu/ms-computer-science-thesis-option)
 - [*Bachelors at Vellore institute of technology*](https://vitap.ac.in) 💼 
