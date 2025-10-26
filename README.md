@@ -12,7 +12,7 @@
 
  ### 💼 Where i am currently/done Studying at/as
 - [*SDE2, Oracle America, Inc.*](https://oracle.com) 💼
-- [*Machione Leanring Engineer, Prometheus Intelligence.*](https://www.prointel.net/) 💼
+- [*Machine Learning Engineer, Prometheus Intelligence.*](https://www.prointel.net/) 💼
 - [*M.S. in Computer Science (Thesis) at The University of Georgia, Athens*](https://computing.uga.edu/ms-computer-science-thesis-option)
 - [*Bachelors at Vellore institute of technology*](https://vitap.ac.in) 💼 
 - [*High School at Narayana junior college*](https://narayanagroup.com/) ✒
