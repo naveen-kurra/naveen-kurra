@@ -17,12 +17,9 @@
 - *Middle School Education at Milennium Talent School*
     
  ### ☁️ MY VISION: 
-   * 😅*My vision is to make AI a power tool in the field of medicine,health And in exploration of Space*
- ### 💻 What i am currently/done working on
-   * ⚡VQA Systems
-   * ⚕️ *Currently working on AI In Medicine*<ul><li>*AI for medical Diagnosis*</li><li>*AI for mediacl Prognosis*</li><li>*AI for medical treatment*</li></ul>
+   * 😅*My vision is to make AI a power tool in the field of medicine,health And Robotics*
 ### 😉 INTERSTS:
-   * 😎 *Very Intersted About Space Exploration*
+   * 😎 *Very Intersted About healthcare and Space Exploration*
 ### 🔗 WHERE TO FIND ME
    * Connect me through<ul><li>😏 [Facebook](https://www.facebook.com/people/Naveen-Chowdary/100008693080523)</li><li>👨💼[Linkedin](www.linkedin.com/in/naveen-kurra)</li><li>🐤[twitter](https://twitter.com/Naveen_kurra7)</li></ul>
 
