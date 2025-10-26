@@ -8,10 +8,12 @@
 
 <h2 align="center">Hello there! My name is Naveen Kurra. 👋🤓</h2>
 
-***This is Naveen Kurra.Energetic and passionate college student working towards Masters in Computer Science at The University Of Georgia,Athens with keen interest and practical exposure in the field of building Artificial intelligence and data based projects.Can endure rigorous and long work hours.Gained   knowledge in Artificial intelligence,Data Science,Web development,machine learning,Deep Learning, Open Cv,Cloud Computing and database management system.***
+***This is Naveen Kurra.Energetic and passionate Reasearcher with keen interest and practical exposure in the field of building Artificial intelligence. Can endure rigorous and long work hours. Gained knowledge in Artificial intelligence,Data Science, machine learning, Deep Learning, NLP , Open Cv.***
 
  ### 💼 Where i am currently/done Studying at/as
-- [*Currently Pursuing M.S. in Computer Science (Thesis) at The University of Georgia, Athens*](https://computing.uga.edu/ms-computer-science-thesis-option)
+- [*SDE2, Oracle America, Inc.*](https://oracle.com) 💼
+- [*Machione Leanring Engineer, Prometheus Intelligence.*](https://www.prointel.net/) 💼
+- [*M.S. in Computer Science (Thesis) at The University of Georgia, Athens*](https://computing.uga.edu/ms-computer-science-thesis-option)
 - [*Bachelors at Vellore institute of technology*](https://vitap.ac.in) 💼 
 - [*High School at Narayana junior college*](https://narayanagroup.com/) ✒
 - *Middle School Education at Milennium Talent School*
